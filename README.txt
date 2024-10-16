@@ -38,6 +38,8 @@ or even windows performance counter but for my overlay all you need is AB and RT
 
 To check if you like the position of everything simply run any game in windowed mode (corsair icue also works if you use it) and place them side by side so you can edit it while checking it simultaneously
 
+In case you don't wanna use afterburner and use hwinfo64 or any other software instead just remove the first four data sources (the ones with (AB)) and look for the sensors in the respective programm
+
 
 
 Refer to my reddit post for the hypertext you can use
