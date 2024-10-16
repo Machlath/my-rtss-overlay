@@ -1,4 +1,4 @@
-To use this properly you will need afterburner and rtss (final build 7.3.6) but should still work with older versions
+To use this properly you will need rivatuner statistics server (final build 7.3.6 is what I use) but should still work with older versions
 
 This overlay will show you:
 
